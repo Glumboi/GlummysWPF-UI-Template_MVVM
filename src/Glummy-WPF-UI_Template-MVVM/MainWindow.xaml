@@ -25,7 +25,7 @@
 
         <ui:TitleBar
             x:Name="TitleBar"
-            Title="MTPBWY-Configurator"
+            Title="Glummy_WPF_UI_Template_MVVM"
             Icon="./Assets/icon.png">
 
         </ui:TitleBar>
